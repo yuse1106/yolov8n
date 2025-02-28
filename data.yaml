@@ -1,0 +1,11 @@
+
+# シンプルな背景の場合のパス
+train: C:/Users/yusei/yolov8/datasets/images/train
+val: C:/Users/yusei/yolov8/datasets/images/val
+
+# 複雑な背景の場合のパス
+train: C:/Users/yusei/yolov8/data/images/train
+val: C:/Users/yusei/yolov8/data/images/val
+
+nc: 3
+names: ['apple', 'lemon', 'orange']

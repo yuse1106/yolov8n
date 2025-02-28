@@ -1,0 +1,6 @@
+# 産業用データセットのファイル
+train: C:/Users/yusei/yolov8/datasets_new/images/train
+val: C:/Users/yusei/yolov8/datasets_new/images/val
+
+nc: 3
+names: ['class1', 'class2', 'class3']
